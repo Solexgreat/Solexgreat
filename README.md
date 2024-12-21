@@ -57,9 +57,9 @@ I'm also an enthusiast of:
     <code><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" 
     height="40"/> </a></code>
     <code> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" 
-    alt="flask" width="50" height="50"/> </a></code>
-   <code><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="50" 
-    height="50"/></code>
+    alt="flask" width="40" height="40"/> </a></code>
+   <code><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" 
+    height="40"/></code>
 
 </div>
 
