@@ -4,12 +4,13 @@
 <h2>Hi there 👋🏾</h2>
 </div>
 <div>
-<h5>My name is Solomon, welcome to my git hub account </h5>
+<h5>My name is Solomon, welcome to my git hub account </h5> 
 
 
 I'm a passionate **Software Engineer 👩🏾‍💻** specializing in:
 - 🌐 Full-stack Web Development
 - 🛠️ Building scalable systems
+-	⚙️ DevOps and Depolyment
   
 I'm also an enthusiast of:
 - 🧠 Artificial Intelligence and Machine Learning.
@@ -25,6 +26,8 @@ I'm also an enthusiast of:
 -  Contribute to more open-source projects
 -  Explore new technologies and improve my skill set.
 
+### 📫 Connect with Me
+-  LinkedIn: <a href="https://www.linkedin.com/in/solomon-omisami-052134234/">https://www.linkedin.com/in/solomon-omisami-052134234/</a>
 
 <!--
 **Solexgreat/Solexgreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
