@@ -34,29 +34,32 @@ I'm also an enthusiast of:
 
 ### 🛠️Languages and tools:
   <div>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" width="50" height="50" alt="Nestjs" margin='5'/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" alt="Node.js"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/></code>
-    <code><img src ="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" width="50" height="50" alt="TS"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="50" height="50" alt=""VSCode/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" width="50" height="50" alt="Tailwind"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50" alt="Python"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Psql" width="50" height="50" alt="Psql"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" alt="Node.js"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" width="50" height="50" alt="Mysql"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50" alt="MongoDB"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50" alt="Javascript"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" width="50" height="50" alt="Flask"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" width="50" height="50" alt="Html"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="50" height="50" alt="Figma"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="50" height="50" alt="Bootstrap"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50" alt="CSS"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" width="50" height="50" alt="Redis"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAi" width="50" height="50" alt="OpenAI"/></code>
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="50" height="50" alt="Jira"/></code>
-    <code><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="50" 		height="50"/> </a></code>
-    <code> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/> </a></code>
-   <code><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="50" height="50"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" width="40" height="40" alt="Nestjs" margin='5'/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40" alt="Node.js"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></code>
+    <code><img src ="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" width="40" height="40" alt="TS"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="40" height="40" alt=""VSCode/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" width="40" height="40" alt="Tailwind"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40" alt="Python"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Psql" width="40" height="40" alt="Psql"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40" alt="Node.js"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" width="40" height="40" alt="Mysql"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" alt="MongoDB"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"width="40" height="40" alt="Javascript"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" width="40" height="40" alt="Flask"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" width="40" height="40" alt="Html"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40" alt="Figma"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="40" height="40" alt="Bootstrap"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="40" height="40" alt="CSS"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" width="40" height="40" alt="Redis"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAi" width="40" height="40" alt="OpenAI"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="40" height="40" alt="Jira"/></code>
+    <code><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" 
+    height="40"/> </a></code>
+    <code> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" 
+    alt="flask" width="50" height="50"/> </a></code>
+   <code><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="50" 
+    height="50"/></code>
 
 </div>
 
