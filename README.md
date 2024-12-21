@@ -1,6 +1,6 @@
 <div align="center">
 <img width="200" height="200" 
-	src="https://tenor.com/view/enjin-blobby-wave-hello-hi-gif-2690197417773500841" alt="Welcome"/>
+	src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAd/computer-nerds.gif" alt="Welcome"/>
 <h2>Hi there 👋🏾</h2>
 </div>
 <div>
