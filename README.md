@@ -27,44 +27,60 @@ I'm also an enthusiast of:
 -  Explore new technologies and improve my skill set.
 
 ### 📫 Connect with Me
--  LinkedIn: <a href="https://www.linkedin.com/in/solomon-omisami-052134234/">https://www.linkedin.com/in/solomon-omisami-052134234/</a>
+<a href="https://www.linkedin.com/in/solomon-omisami-052134234/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+</br>
 
-🛠️Languages and tools:
+### 🛠️Languages and tools:
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" width="50" height="50" alt="Nestjs" margin='5'/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" alt="Node.js"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" width="50" height="50" alt="TS"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="50" height="50" alt=""VSCode/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" width="50" height="50" alt="Tailwind"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50" alt="Python"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Psql" width="50" height="50" alt="Psql"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" alt="Node.js"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" width="50" height="50" alt="Mysql"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50" alt="MongoDB"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50" alt="Javascript"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" width="50" height="50" alt="Flask"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" width="50" height="50" alt="Html"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="50" height="50" alt="Figma"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="50" height="50" alt="Bootstrap"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50" alt="CSS"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" width="50" height="50" alt="Redis"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAi" width="50" height="50" alt="OpenAI"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="50" height="50" alt="Jira"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="50" height="50" alt="Figma"/>
-  </div>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" width="50" height="50" alt="Nestjs" margin='5'/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" alt="Node.js"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/></code>
+    <code><img src ="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" width="50" height="50" alt="TS"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="50" height="50" alt=""VSCode/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" width="50" height="50" alt="Tailwind"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50" alt="Python"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Psql" width="50" height="50" alt="Psql"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" alt="Node.js"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" width="50" height="50" alt="Mysql"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50" alt="MongoDB"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50" alt="Javascript"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" width="50" height="50" alt="Flask"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" width="50" height="50" alt="Html"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="50" height="50" alt="Figma"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="50" height="50" alt="Bootstrap"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50" alt="CSS"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" width="50" height="50" alt="Redis"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAi" width="50" height="50" alt="OpenAI"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="50" height="50" alt="Jira"/></code>
+    <code><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="50" 		height="50"/> </a></code>
+    <code> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/> </a></code>
+   <code><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="50" height="50"/></code>
+
 </div>
-<!--
-**Solexgreat/Solexgreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 Stat
+Profile views
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> <img src="https://komarev.com/ghpvc/?username=Solexgreat" alt="Solexgreat" /> </p>
+
+<!-- Profile Visitors -->
+![](https://visitor-badge.laobi.icu/badge?page_id=Solexgreat.Solexgreat)
+</br>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Solexgreat&show_icons=true&locale=en&layout=compact&theme=dark" alt="Solexgreat" /></p>
+</br>
+    
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Solexgreat&show_icons=true&locale=en&theme=dark" alt="Solexgreat" /></p>
+ 
+ </br>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Solexgreat&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p>
+ 
+ </br>
+
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Solexgreat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
