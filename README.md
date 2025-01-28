@@ -16,8 +16,8 @@ I'm also an enthusiast of:
 - 🧠 Artificial Intelligence and Machine Learning.
 
 ## 🛠️ Skills
-- Languages: JavaScript, Python, C#
-- Frameworks: React, Node.js, Flask, Nest.js
+- Languages: JavaScript, Python, C#, php
+- Frameworks: React, Node.js, Flask, Nest.js, Laravel
 - Tools: Docker, Git, CI/CD Pipelines
 - Databases: PostgreSQL, MongoDB, Mysql
 
